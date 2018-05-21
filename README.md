@@ -1,2 +1,2 @@
-# blockchain
-Learn various Blockchain
+# Blockchain
+Learn concept of Public and Private Blockchain by implementing them
